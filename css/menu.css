@@ -1,0 +1,27 @@
+.menu{
+    width:80%;
+    font-size: 2em;
+    font-weight: bolder;
+    margin-left:10%;
+    color: #fff;
+    text-align: center;
+    float: left;
+    position: absolute;
+}
+
+.menu ul{
+    list-style-type: none;
+    width:100%;
+}
+
+.menu ul li{
+    width:40%;
+    padding:1.5%;
+    margin:-1%;
+    background-color:#000066;
+    display: inline;
+}
+
+.menu ul li:hover{
+
+}
